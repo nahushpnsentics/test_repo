@@ -1,0 +1,605 @@
+# MTL file - created by a modified js OBJExporter
+
+newmtl Walls
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.7383419871330261
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.7359447479248047 0.7996034026145935 0.9555554389953613
+Ke 0 0 0
+
+newmtl Support_Pillars
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.3106929659843445 0.3106929659843445 0.3106929659843445
+Ke 0 0 0
+
+newmtl Wall_top
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.005730330944061279 0.0135142020881176 0.03193081170320511
+Ke 0 0 0
+
+newmtl Window
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.5362694263458252
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.030034605413675308 0.030034605413675308 0.030034605413675308
+Ke 0 0 0
+
+newmtl Window_Glass
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psi 1
+Psc 1 1 1
+Ptr 1
+Ka 1 1 1
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ke 0 0 0
+
+newmtl material232
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+
+newmtl Rubber
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.6709844470024109
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.006686347536742687 0.006686347536742687 0.006686347536742687
+Ke 0 0 0
+
+newmtl Mat_White
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.3499999940395355
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.7119863033294678 0.7119863033294678 0.7119863033294678
+Ke 0 0 0
+
+newmtl Door_Mat_Orange
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.7304571270942688 0.11443544179201126 0.029556889086961746
+Ke 0 0 0
+
+newmtl Glass
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psi 1
+Psc 1 1 1
+Ptr 1
+Ka 1 1 1
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ke 0 0 0
+
+newmtl Door_Closer
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 0.3730570077896118
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.24450170993804932 0.24450170993804932 0.24450170993804932
+Ke 0 0 0
+
+newmtl Outter_Doors
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 0.5595855116844177
+Pr 0.5518134832382202
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.0638907328248024 0.08310169726610184 0.09530753642320633
+Ke 0 0 0
+
+newmtl Aluminium
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.4015544056892395
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ke 0 0 0
+
+newmtl Door_Mat_White
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ke 0 0 0
+
+newmtl Mat_Yellow
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.679538369178772 0.5533148050308228 0.07078927010297775
+Ke 0 0 0
+
+newmtl Corrugated_metal_sheet
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.7227979302406311
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.7304571270942688 0.11443544179201126 0.029556889086961746
+Ke 0 0 0
+norm normalMap16.png
+
+newmtl Mat_Black
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.7953367829322815
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.003992517478764057 0.003992517478764057 0.003992517478764057
+Ke 0 0 0
+
+newmtl Mat_Red
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.36107656359672546
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psi 1
+Psc 2 2 2
+Ka 1 1 1
+Kd 0.21579748392105103 0.0034420525189489126 0.0045395721681416035
+Ke 0 0 0
+
+newmtl Mat_Aluminium
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.4699084758758545 0.4699084758758545 0.4699084758758545
+Ke 0 0 0
+
+newmtl Mat_Black.001
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.7953367829322815
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.003992517478764057 0.003992517478764057 0.003992517478764057
+Ke 0 0 0
+
+newmtl Mat_Iron
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.24450170993804932 0.24450170993804932 0.24450170993804932
+Ke 0 0 0
+
+newmtl Mat_Yellow.001
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.8295385837554932 0.6754528284072876 0.08641523122787476
+Ke 0 0 0
+
+newmtl Mat_Gray
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.1276051253080368 0.1276051253080368 0.1276051253080368
+Ke 0 0 0
+
+newmtl Translucent
+Tr 0.6500000059604645
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ke 0 0 0
+
+newmtl Mat_Orange
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.8227816820144653 0.1328684240579605 0
+Ke 0 0 0
+
+newmtl Fence_2
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.022068191319704056 0.04464808478951454 0.3200724124908447
+Ke 0 0 0
+
+newmtl Glass_Dark
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psi 1
+Psc 1 1 1
+Ptr 1
+Ka 1 1 1
+Kd 0.07198908925056458 0.07198908925056458 0.07198908925056458
+Ke 0 0 0
+
+newmtl Mat_Light_Green
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.11101757735013962 0.3050791919231415 0.03243671730160713
+Ke 0 0 0
+
+newmtl Floor
+Tr 0.004545450210571289
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.800000011920929
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Floor.png
+
+newmtl Mat_Iron.001
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.24450170993804932 0.24450170993804932 0.24450170993804932
+Ke 0 0 0
+
+newmtl TextureWalls
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd TextureWalls.png
+
+newmtl Mat_Black.003
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.7953367829322815
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.003992517478764057 0.003992517478764057 0.003992517478764057
+Ke 0 0 0
+
+newmtl Corrugated_metal_sheet.001
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.6761658191680908
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.24411755800247192 0.2518821060657501 0.2773650884628296
+Ke 0 0 0
+norm normalMap33.png
+
+newmtl Mat_Wood
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.8003311157226562 0.5216653943061829 0.13455554842948914
+Ke 0 0 0
+
+newmtl Bark_Base_Mat.001
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.5527864098548889
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psi 1
+Psc 2 2 2
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Bark_Base_Mat.001.png
+norm normalMap35.png
+
+newmtl Oak_English_Cluster_Branch_Mat.001
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.5527864098548889
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psi 1
+Psc 2 2 2
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Oak_English_Cluster_Branch_Mat.001.png
+norm normalMap36.png
+
+newmtl Oak_English_Cluster_Leaf_Summer_Mat.001
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.5527864098548889
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psi 1
+Psc 2 2 2
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Oak_English_Cluster_Leaf_Summer_Mat.001.png
+norm normalMap37.png
+
+newmtl Oak_Desktop_Forest_Mat.001
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.5527864098548889
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psi 1
+Psc 2 2 2
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Oak_Desktop_Forest_Mat.001.png
+norm normalMap38.png
+
+newmtl MI_tivkaabqx
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psi 1
+Psc 2 2 2
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd MI_tivkaabqx.png
+map_Pm metalnessMap39.png
+map_Pr metalnessMap39.png
+norm normalMap39.png
+
+newmtl Exit_Sign_Right
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.75
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Exit_Sign_Right.png
+
+newmtl Mat_Black_Metallic
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.8108808398246765
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.05846183001995087 0.05603344365954399 0.07521373778581619
+Ke 0 0 0
+
+newmtl Mat_Blue
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.06910233944654465 0.19738151133060455 0.32225775718688965
+Ke 0 0 0
+
+newmtl Mat_Aluminium.001
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.4699084758758545 0.4699084758758545 0.4699084758758545
+Ke 0 0 0
+
+newmtl Fence_1
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.8227816820144653 0.1328684240579605 0
+Ke 0 0 0
+
+newmtl Fence
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Fence.png
+
+newmtl Fence_black
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Fence_black.png
