@@ -210,14 +210,17 @@ def run():
                
                 if cls == 0:
                     color = (0, 0, 255)
+                    aspect_ratio_cls = 1.3
+                    aspect_ratio_cls_low_conf = 0.6
                 elif cls == 1:
                     color = (0, 255, 0)
+                    aspect_ratio_cls = 0.8
                 cv2.circle(frame, (int(u_full), int(v_full)), 10, color, -1)
                 cv2.rectangle(frame, (int(x1), int(y1)), (int(x2), int(y2)), color, 2)
                 aspect_ratio = (y2-y1)/(x2-x1)
                 logging.info(f"{i},{cls}, {aspect_ratio}, {conf}")
-
-                if conf > 0.7:
+                
+                if ((conf > 0.95) and (aspect_ratio >= aspect_ratio_cls)) or ((conf < 0.95) and (aspect_ratio <= aspect_ratio_cls_low_conf)):
                     pt_f = rect_to_fisheye_point(u_full, v_full, cam_settings[i], fisheye_params, rect_w, rect_h)
                     if pt_f is None:
                         continue
