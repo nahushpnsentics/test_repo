@@ -1,0 +1,113 @@
+{
+  "campture1": {
+    "cam_id": 229,
+    "cam_settings": {
+      "view1": {
+        "cx": 1296.0,
+        "cy": 972.0,
+        "fov": 90.0,
+        "pitch": 58.0,
+        "theta_max_deg": 90.0,
+        "yaw_deg": -18.0
+      },
+      "view2": {
+        "cx": 1296.0,
+        "cy": 972.0,
+        "fov": 90.0,
+        "pitch": 54.0,
+        "theta_max_deg": 90.0,
+        "yaw_deg": -42.0
+      },
+      "view3": {
+        "cx": 1296.0,
+        "cy": 972.0,
+        "fov": 90.0,
+        "pitch": 28.0,
+        "theta_max_deg": 90.0,
+        "yaw_deg": -30.0
+      },
+      "view4": {
+        "cx": 1296.0,
+        "cy": 972.0,
+        "fov": 90.0,
+        "pitch": 58.0,
+        "theta_max_deg": 90.0,
+        "yaw_deg": 24.0
+      }
+    }
+  },
+  "campture2": {
+    "cam_id": 229,
+    "cam_settings": {
+      "view1": {
+        "cx": 1296.0,
+        "cy": 972.0,
+        "fov": 90.0,
+        "pitch": 56.0,
+        "theta_max_deg": 90.0,
+        "yaw_deg": -18.0
+      },
+      "view2": {
+        "cx": 1296.0,
+        "cy": 972.0,
+        "fov": 90.0,
+        "pitch": 54.0,
+        "theta_max_deg": 90.0,
+        "yaw_deg": -42.0
+      },
+      "view3": {
+        "cx": 1296.0,
+        "cy": 972.0,
+        "fov": 90.0,
+        "pitch": 28.0,
+        "theta_max_deg": 90.0,
+        "yaw_deg": -30.0
+      },
+      "view4": {
+        "cx": 1296.0,
+        "cy": 972.0,
+        "fov": 90.0,
+        "pitch": 58.0,
+        "theta_max_deg": 90.0,
+        "yaw_deg": 24.0
+      }
+    }
+  },
+  "campture3": {
+    "cam_id": 229,
+    "cam_settings": {
+      "view1": {
+        "cx": 1296.0,
+        "cy": 972.0,
+        "fov": 90.0,
+        "pitch": 56.0,
+        "theta_max_deg": 90.0,
+        "yaw_deg": -18.0
+      },
+      "view2": {
+        "cx": 1296.0,
+        "cy": 972.0,
+        "fov": 90.0,
+        "pitch": 54.0,
+        "theta_max_deg": 90.0,
+        "yaw_deg": -42.0
+      },
+      "view3": {
+        "cx": 1296.0,
+        "cy": 972.0,
+        "fov": 90.0,
+        "pitch": 28.0,
+        "theta_max_deg": 90.0,
+        "yaw_deg": -30.0
+      },
+      "view4": {
+        "cx": 1296.0,
+        "cy": 972.0,
+        "fov": 90.0,
+        "pitch": 58.0,
+        "theta_max_deg": 90.0,
+        "yaw_deg": 24.0
+      }
+    }
+  }
+}
